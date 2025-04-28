@@ -32,13 +32,7 @@ pip install -r requirements.txt
 
 ## **🛠️ Setup Instructions**
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-```
-
-### 2. Set Up Virtual Environment (Recommended)
+### 1. Set Up Virtual Environment (Recommended)
 
 ```bash
 python3 -m venv venv
@@ -46,17 +40,17 @@ source venv/bin/activate        # On macOS/Linux
 venv\Scripts\activate           # On Windows
 ```
 
-### 3. Install Python Packages
+### 2. Install Python Packages
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Prepare Model Files
+### 3. Prepare Model Files
 - Place your `keras_model.h5` and `labels.txt` files in the same folder as `main.py`.
 - Ensure the labels correspond exactly to the model’s outputs.
 
-### 5. Configure Script Settings
+### 4. Configure Script Settings
 Inside `main.py`, edit these variables to match your setup:
 
 ```python
