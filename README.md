@@ -1,4 +1,4 @@
-# **elegoo-ai-car**
+# **ELEGOO-ai-car**
 This project demonstrates how to control an **Elegoo Smart Car** using **real-time image classification** with a **TensorFlow Lite** model.  
 The car is guided based on predictions made from the live video feed captured by an **ESP32-CAM** module mounted on the car.
 
