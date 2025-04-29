@@ -1,6 +1,6 @@
 # **ELEGOO-ai-car**
 This project demonstrates how to control an **Elegoo Smart Car** using **real-time image classification** with a **TensorFlow Lite** model.  
-The car is guided based on predictions made from the live video feed captured by an **ESP32-CAM** module mounted on the car.
+The car is guided based on predictions made from the live video feed captured by an **ESP32-CAM** module mounted on the car. The car's AI is trained on stop sing, stop light, and pedestrians, allowing it to stop and watch out for these items.
 
 The system identifies objects (such as people or stop signs or traffic lights) and commands the car to move forward, stop, or turn based on the classification results.
 
