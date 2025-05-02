@@ -19,15 +19,6 @@ The system identifies objects (such as people or stop signs or traffic lights) a
   - `time`
   - `os`
 
-You can install all dependencies by running:
-
-```bash
-pip install -r requirements.txt
-```
-
-> **Note:** TensorFlow may require additional system dependencies depending on your OS.  
-> Please refer to the [TensorFlow installation guide](https://www.tensorflow.org/install) if you encounter issues.
-
 ---
 
 ## **🛠️ Setup Instructions**
