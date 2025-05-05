@@ -102,7 +102,7 @@ Make sure your **ESP32-CAM is connected** to the same network as your computer a
 
 ## **📺 Video Walkthrough**
 
-[Click here to watch the project walkthrough on YouTube!]((https://youtu.be/5SP6lWJdkx0))
+[Click here to watch the project walkthrough on YouTube!]([(https://youtu.be/5SP6lWJdkx0)](https://youtu.be/5SP6lWJdkx0))
 
 In the video, I explain:
 - How I installed everything
