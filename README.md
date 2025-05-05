@@ -1,4 +1,4 @@
-# **ELEGOO-ai-car**
+# **ELEGOO-AI-Smart-car**
 This project demonstrates how to control an **Elegoo Smart Car** using **real-time image classification** with a **TensorFlow Lite** model.  
 The car is guided based on predictions made from the live video feed captured by an **ESP32-CAM** module mounted on the car. The car's AI is trained on stop sing, stop light, and pedestrians, allowing it to stop and watch out for these items.
 
@@ -102,10 +102,9 @@ Make sure your **ESP32-CAM is connected** to the same network as your computer a
 
 ## **📺 Video Walkthrough**
 
-[Click here to watch the project walkthrough on YouTube!](https://www.youtube.com/YOUR-VIDEO-LINK)
+[Click here to watch the project walkthrough on YouTube!]((https://youtu.be/5SP6lWJdkx0))
 
 In the video, I explain:
-- How to install everything
-- How to configure your system
-- How the code works
-- Troubleshooting tips for common issues
+- How I installed everything
+- How I configure'd my system with Virtual Environments
+- Issues my group and I faced durring the project
